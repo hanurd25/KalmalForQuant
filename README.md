@@ -2,9 +2,7 @@
 Kalman filter for quants
 
 
-Coding in;
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+### Coding in ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Sources
 
