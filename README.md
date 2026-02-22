@@ -1,6 +1,10 @@
 # KalmalForQuant
 Kalman filter for quantitative analysis.
 
+## Background from ![Medium](https://medium.com/intro-to-artificial-intelligence/kalman-filter-in-stock-trading-552e1e4b2dfb)
+
+Given the measurements are subject to noise, the Kalman filter (KF) algorithm can recover the true state of the underlying object being tracked. The algorithm has two steps: the prediction step and the measurement update step. The filter combines the measurement from the noisy sensor and prediction from a physics-based model (fo
+
 
 ### Coding in ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
